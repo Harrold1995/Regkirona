@@ -1,0 +1,14 @@
+/cache 
+/node_modules  
+
+*.log 
+
+## File-based project format: 
+*.iws 
+**/.idea/
+* /.idea/
+ *.sublime
+
+* **/._.DS_Store 
+.htaccess 
+**/.DS_Store
